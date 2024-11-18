@@ -1,3 +1,3 @@
 # DevOps-1
-<h1>This is the main heading in the DevOps-1 Model</h1><br>
-<h2>this is the second main heading</h2>
+<p>this is the first line</p><br>
+<p>this is the second line</p>
